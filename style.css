@@ -1,0 +1,37 @@
+h1 {
+  color: maroon;
+}
+
+.title {
+  color: rgb(255, 255, 255);
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+  
+#button:hover {
+    background-color: rgb(156, 156, 156);
+}
+
+.center {
+    text-align: center;
+    color: white;
+}
+
+body {
+  /* Old browsers */
+  background: #141E30;
+  /* Chrome 10-25, Safari 5.1-6 */
+  background-color: rgb(255, 255, 255);
+  background-image: url('https://image.prntscr.com/image/8AUKnjP4Qqy88SRwoszNvA.png');
+  background-position-x: center;
+  margin: 0;
+  padding: 10;
+  text-align: center;
+  color: white;
+}
+
+.links {
+  color: white;
+}
